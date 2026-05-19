@@ -329,20 +329,12 @@ footer {
     height: 56px;
   }
 }
-.product .section-heading p:last-child {
-    margin-bottom: 2rem;
-    line-height: 1.8;
-}
-.product .section-heading p:last-child {
-    margin-bottom: 2rem;
-    line-height: 1.8;
-}
-
-.focus-copy p {
-    line-height: 1.8;
-}
 .product .section-wrap > p {
     margin-bottom: 2.5rem;
     line-height: 1.9;
     max-width: 1200px;
+}
+
+.focus-copy p {
+    line-height: 1.8;
 }
