@@ -1,0 +1,33 @@
+Century Apparel SEO and Social Media Promotion Plan
+
+Client:
+Century Apparel
+
+Product/service being promoted:
+Century Apparel is promoting the Century Smart Hoodie and the brand’s Toronto-inspired premium streetwear identity. The campaign supports the slogan “From Concept to Culture” and focuses on apparel that combines confidence, identity, street culture, and modern design.
+
+Target audience:
+The target audience is young adults, Toronto streetwear customers, creatives, design students, fashion-focused shoppers, and people interested in premium urban apparel. This audience values bold branding, clean visuals, limited drops, local culture, and clothing that feels modern, confident, and built to last.
+
+Most suitable platforms:
+Instagram: Best for outfit reels, product photography, launch announcements, and streetwear visuals.
+TikTok: Best for short styling videos, behind-the-scenes clips, hoodie feature reveals, and quick trend-based content.
+YouTube Shorts: Best for product teasers, launch recaps, and brand storytelling.
+Facebook: Useful for local event promotion, community updates, and business credibility.
+X: Useful for quick launch updates, hashtags, and connecting with streetwear and design communities.
+
+Proposed hashtags:
+#CenturyApparel
+#FromConceptToCulture
+#TorontoStreetwear
+#SmartHoodie
+#UrbanApparel
+
+Promotional strategy:
+Century Apparel will use Instagram, TikTok, and YouTube Shorts to promote the Century Smart Hoodie through cinematic product visuals, short styling clips, and launch-focused posts. The campaign will connect the product to Toronto street culture by using consistent brand colours, the official logo, and the slogan “From Concept to Culture.” Social media posts will direct users to the website, where SEO-friendly content, meta tags, social links, and blog-style product information improve discoverability and engagement.
+
+SEO strategy:
+The website uses a clear title, keyword-rich meta description, author tag, Open Graph tags, Twitter card tags, semantic HTML5 structure, optimized image alt text, and a basic blog section. These elements support search visibility for terms such as Century Apparel, Toronto streetwear, smart hoodie, tech fleece hoodie, and premium urban apparel.
+
+SEO simulation interpretation notes:
+After publishing the folder to GitHub Pages, run the live URL through a free SEO checker such as Seobility. The expected strengths should include a descriptive title, clear meta description, heading structure, image alt text, readable content, and social media integration. If the tool recommends changes, update the meta description, improve keyword placement naturally, add more internal links, or compress images further.
